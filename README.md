@@ -1,5 +1,3 @@
-# tcp-port-forwarder
+# port-forwarder
 
-```bash
-./tcp-tcp 10.3.1.22:8080 0.0.0.0:8080
-```
+Download: https://github.com/hypnguyen1209/port-forwarder/releases
